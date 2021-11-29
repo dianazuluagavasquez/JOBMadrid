@@ -27,4 +27,4 @@ class: card<br>
 
 Filtros:<br>
 Cambair el value de los filtros aplicados desde el html por el tipo de indistria que se quiera filtrar <br>
-Ejemplo: **<input type="submit" value="Real Estate" class="filter search" id="realState" >*
+Ejemplo: <p>*<input type="submit" value="Real Estate" class="filter search" id="realState" >*</p>
